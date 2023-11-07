@@ -9,6 +9,6 @@
     "dotenv": "^8.2.0"
   },
   "devDependencies": {
-    "semistandard": "^14.2.0"
+    "semistandard": "^17.0.0"
   }
 }
